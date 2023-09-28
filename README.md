@@ -81,7 +81,6 @@ To create a predictive model for emotion classification based on the extracted M
 
 Here's an example of how to use the predictive system:
 
-# Example usage:
-Replace 'your_audio_file.wav' with the path to your audio file
-predicted_emotion = predict_emotion('your_audio_file.wav')
-print(f"Predicted Emotion: {predicted_emotion}")
+- Replace 'your_audio_file.wav' with the path to your audio file
+- predicted_emotion = predict_emotion('your_audio_file.wav')
+- print(f"Predicted Emotion: {predicted_emotion}")
